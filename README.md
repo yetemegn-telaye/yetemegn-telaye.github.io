@@ -20,6 +20,9 @@ I love building open-source projects and contributing to the community.
 
 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yetemegn-telaye&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yetemegn-telaye&langs_count=5&theme=tokyonight)]()
+
 
 :iphone: Contact me: 
 - Email: lemma19yet@gmail.com
