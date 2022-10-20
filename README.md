@@ -28,3 +28,4 @@ I love building open-source projects and contributing to the community.
 - Email: lemma19yet@gmail.com
 - Twitter: https://twitter.com/Yetemegn19
 - LinkedIn: https://www.linkedin.com/in/yetemegn-telaye-81370920a/
+- Portfolio: https://yetemegn-telaye.github.io/My-Portfolio/
